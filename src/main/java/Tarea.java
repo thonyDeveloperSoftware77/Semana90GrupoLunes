@@ -16,6 +16,6 @@ public class Tarea {
   }
 
   public void metodoInutil() { // Método innecesario.
-    System.out.println("Este método no hace nada relevante.");
+    System.out.println("Este método no hace nada relevante."); 
   }
 }

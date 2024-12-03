@@ -29,7 +29,7 @@ public class GestorTareas {
   public void bucleIneficiente() { // Método con un bucle ineficiente.
     for (int i = 0; i < tareas.size(); i++) {
       for (int j = 0; j < tareas.size(); j++) {
-        System.out.println("Comparando tareas.");
+        System.out.println("Comparando tareas.") ; 
       }
     }
   }
